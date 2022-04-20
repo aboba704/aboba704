@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aboba704
-- 👀 I’m interested in me
+- 👀 I’m interested in уфештп ащщв
 - 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on no one
+- 💞️ I’m looking to collaborate with no one
 - 📫 How to reach me ...
 
 <!---
