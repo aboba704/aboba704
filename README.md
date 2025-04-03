@@ -1,7 +1,7 @@
 # About Me:
 Изучаю направления: разработка C/C++, DevOps.<br>
 school21 student.<br>
-t.me/EDUHOPOr
+[Telegram](t.me/EDUHOPOr)
 
 # Pet Projects
 
