@@ -3,13 +3,13 @@
 school21 student.<br>
 [Telegram](t.me/EDUHOPOr)
 
-# Pet Projects
+# Pet Projects:
 
 ## Проекты по DevOps:
 
 ### s21_simpleDocker
 
-Введение в докер. Разработка простого докер-образа для собственного сервера.
+Разработка простого докер-образа для собственного сервера.
 - **Технологии**: nginx, FastCgi, docker, dockle, docker-compose
 - **Сслыка на репозиторий**: [GitHub](https://github.com/aboba704/Examples/tree/main/s21_simpleDocker)
 
