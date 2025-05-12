@@ -7,6 +7,12 @@ school21 student \
 
 ## Проекты по DevOps:
 
+### s21_DevOps_7
+
+Использование инструментов docker compose и docker swarm для совместного запуска контейнеров и их оркестровки простым способом.
+- **Технологии**: docker-compose, vagrant, docker swarm, nginx, bash
+- **Сслыка на репозиторий**: [GitHub](https://github.com/aboba704/PetProjects/tree/main/s21_DevOps_7)
+
 ### s21_LinuxMonitoring
 
 Мониторинг и исследование состояния системы в реальном времени.
